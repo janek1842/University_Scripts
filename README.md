@@ -1,2 +1,5 @@
 # Wireless
-In this repository I document some of my scripts related to Wireless systems, mostly written in MATLAB 
+
+## Wireless university course files 
+
+- Files related to wireless systems, mostly written in MATLAB 
